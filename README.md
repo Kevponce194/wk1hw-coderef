@@ -2,9 +2,9 @@
 
 ## week 1 homework - Code Refactor
 
-### Task:
+**Assignment:** Take existing Code and refactor
 
-Take existing Code and refactor 
+**Tasks:**
 
 - [ ] HTML is semantically correct
 - [ ] A logical flow of html elements
