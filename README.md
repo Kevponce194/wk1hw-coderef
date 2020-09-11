@@ -12,3 +12,8 @@
 - [ ] Title is logical
 - [ ] Images have alt tags
 - [ ] CSS selectors and properties are efficient
+
+**Additional considerations:**
+
+- [ ] Provide link to Github repo and Github pages
+- [ ] Continue git command line executions
