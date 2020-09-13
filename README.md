@@ -20,3 +20,6 @@
     * **GitHub Pages:** https://kevponce194.github.io/wk1hw-coderef
 - [x] Continue git command line executions
 
+**Additional enhancements:**
+* add a:hover color to navigation
+
