@@ -8,14 +8,15 @@
 
 - [ ] HTML is semantically correct
 - [ ] A logical flow of html elements
-- [ ] All links are workng
-- [ ] Title is logical
+- [x] All links are workng
+- [x] Title is logical
 - [ ] Images have alt tags
 - [ ] CSS selectors and properties are efficient
 
 **Additional considerations:**
 
-- [ ] Provide links to Github repo and Github pages
+- [x] Provide links to Github repo and Github pages
+    * **wk1hw repo** https://github.com/Kevponce194/wk1hw-coderef
     * **GitHub Pages** https://kevponce194.github.io/wk1hw-coderef/
-- [ ] Continue git command line executions
+- [x] Continue git command line executions
 
