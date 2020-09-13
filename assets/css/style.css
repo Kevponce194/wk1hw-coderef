@@ -52,6 +52,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: rgb(187, 187, 185);
+  }
+
 /* text control */
 
 p {
