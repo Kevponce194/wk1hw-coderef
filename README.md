@@ -17,3 +17,6 @@
 
 - [ ] Provide link to Github repo and Github pages
 - [ ] Continue git command line executions
+
+http://github.com - automatic!
+[GitHub](http://github.com)
