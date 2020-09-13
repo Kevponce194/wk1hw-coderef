@@ -17,6 +17,6 @@
 
 - [x] Provide links to Github repo and Github pages
     * **wk1hw repo** https://github.com/Kevponce194/wk1hw-coderef
-    * **GitHub Pages** https://kevponce194.github.io/wk1hw-coderef/
+    * **GitHub Pages** https://kevponce194.github.io/wk1hw-coderef {target="_blank"}
 - [x] Continue git command line executions
 
