@@ -16,7 +16,7 @@
 **Additional considerations:**
 
 - [x] Provide links to Github repo and Github pages
-    * **wk1hw repo** https://github.com/Kevponce194/wk1hw-coderef
-    * **GitHub Pages** <a href="http://example.com/" target="_blank">https://kevponce194.github.io/wk1hw-coderef</a>
+    * **wk1hw rep.:o** https://github.com/Kevponce194/wk1hw-coderef
+    * **GitHub Pages:** <a href="http://example.com/" target="_blank">https://kevponce194.github.io/wk1hw-coderef</a>
 - [x] Continue git command line executions
 
