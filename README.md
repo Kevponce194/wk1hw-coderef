@@ -15,7 +15,7 @@
 
 **Additional considerations:**
 
-- [ ] Provide link to Github repo and Github pages
-    * https://kevponce194.github.io/wk1hw-coderef/
+- [ ] Provide links to Github repo and Github pages
+    * [GitHub Pages] https://kevponce194.github.io/wk1hw-coderef/
 - [ ] Continue git command line executions
 
