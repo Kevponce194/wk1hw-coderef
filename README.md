@@ -6,12 +6,14 @@
 
 **Tasks:**
 
-- [ ] HTML is semantically correct
-- [ ] A logical flow of html elements
+- [X] HTML is semantically correct
+- [X] A logical flow of html elements
 - [x] All links are workng
 - [x] Title is logical
-- [ ] Images have alt tags
-- [ ] CSS selectors and properties are efficient
+- [X] Images have alt tags (except image in CSS)
+- [X] CSS selectors and properties are efficient
+
+(image i css selector .group-photo needs an alt tag, but it is my understanding, so far, that screen readers do not read an alt tag from a css file, so I still need to research that.)
 
 **Additional considerations:**
 
